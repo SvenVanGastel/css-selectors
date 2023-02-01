@@ -1,4 +1,4 @@
-.synopsis { 										/* refers to a class atribute in html */
+.page > p:first-of-type {
 	color: #7E8184;								/* Light grey */
 	font-style: italic;
 }
@@ -81,4 +81,8 @@ a:visited:hover {
 
 a:visited:active {
 	color: red;
+}
+
+p:last-of-type{
+	margin-bottom: 50px;
 }
