@@ -1,4 +1,17 @@
-.synopsis {
-	color: #7E8184;				/* Light grey */
+.synopsis { 										/* refers to a class atribute in html */
+	color: #7E8184;								/* Light grey */
 	font-style: italic;
+}
+
+.button {
+	color: #FFF;
+	background-color: #5995DA;		/* Blue */
+	font-weight: bold;
+	padding: 20px;
+	text-align: center;
+	border: 2px solid #5D6063;		/* Dark Gray */
+	border-radius: 5px;
+
+	width: 200px;
+	margin: 20px auto;
 }
